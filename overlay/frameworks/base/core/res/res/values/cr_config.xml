@@ -22,6 +22,6 @@
 <resources>
 
     <!-- Hardware keys enable/disable -->
-    <bool name="config_hwKeysOnNavBar">true</bool>
+    <!--bool name="config_hwKeysOnNavBar">true</bool-->
 
 </resources>
