@@ -45,8 +45,7 @@ BOARD_KERNEL_SEPARATED_DT := true
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/hlte/mkbootimg.mk
 
 # Toolchain defines
-# TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
-TARGET_GCC_VERSION_ARM := 4.7
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 TARGET_GCC_VERSION_AND := 4.7
 
 # Graphics
